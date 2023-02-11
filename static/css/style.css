@@ -1,0 +1,59 @@
+:root {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5em;
+  background-color: #white;
+}
+
+/* MAIN DIV CONTAINER IN WHICH EVERYTHING IS PLACED */
+.container {
+  margin-top: 50px;
+}
+
+section {
+  padding-top: 20px;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+/* LINKS */
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: #324677;
+}
+
+/* NAV BAR */
+#nav {
+  margin: 13px 0;
+  text-align: end;
+}
+#nav a:hover {
+  text-decoration: underline;
+}
+#nav ul li {
+  display: inline;
+  margin: 0 20px 130px 0;
+}
+
+/* SOCIAL ICONS */
+.socials ul li {
+  display: inline;
+  margin: 0 20px 0 0;
+}
+
+#nav-socials {
+  float: right;
+}
+
+/* FEATURES (1/3rd column each) */
+.feature {
+  margin-bottom: 30px;
+}
+.feature img {
+  margin-bottom: 15px;
+  height: auto;
+}/*# sourceMappingURL=style.css.map */
